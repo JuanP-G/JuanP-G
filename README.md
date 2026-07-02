@@ -33,78 +33,58 @@ Although I love desktop development, I'm also passionate about:
 
 ---
 
-# 🚧 Currently Working On
-
-## 🎮 MC ServerLauncher
-
-An open-source Windows application that aims to simplify Minecraft server management through a modern graphical interface.
-
-### Current Features
-
-- ✅ Server creation
-- ✅ Server configuration editor
-- ✅ Live console
-- ✅ Start / Stop / Restart
-- ✅ Multiple server management
-
-### Planned Features
-
-- 🚧 Playit.gg integration
-- 🚧 Mod Manager
-- 🚧 Plugin Manager
-- 🚧 Automatic Backups
-- 🚧 Resource Usage Monitoring
-- 🚧 One-click Server Installation
-
----
-
 # 🛠️ Tech Stack
 
-## Languages
+## 💻 Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+<img src="https://skillicons.dev/icons?i=c" alt="C" />
 
 </p>
 
-## Frameworks & Technologies
+## 🖥️ Desktop Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=astro"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
 
 </p>
 
-## Tools
+## 🌐 Web Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+<img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=idea"/>
+## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=postman"/>
+<p>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+
+</p>
+
+## ⚙️ Learning & Interests
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 
 </p>
 
@@ -112,87 +92,63 @@ An open-source Windows application that aims to simplify Minecraft server manage
 
 # 🚀 Featured Projects
 
-> The projects below represent my current work and interests.
+> Some of the projects I'm currently working on.
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🎮 MC ServerLauncher
+<h3>🎮 MC ServerLauncher</h3>
 
-<img src="https://img.shields.io/badge/Status-In%20Development-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-3B82F6?style=flat-square"/>
 
-A modern **Windows desktop application** designed to simplify Minecraft server management through an intuitive graphical interface.
+Modern Windows application for creating and managing Minecraft servers through an intuitive graphical interface.
 
-### ✨ Features
-
-- 🚀 Create Minecraft servers
-- ⚙️ Edit `server.properties`
+**Highlights**
+- 🚀 Multi-server management
 - 📜 Live console
-- ▶️ Start / Stop / Restart
-- 📊 Resource monitoring
-- 👥 Player management
-- 🔄 Automatic backups *(planned)*
-- 🌐 Playit.gg integration *(in progress)*
-- 🧩 Mod Manager *(planned)*
+- 🌐 Playit.gg integration *(WIP)*
+- 📦 Mod Manager 
 
-### 🛠 Built With
+**Built with**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git" height="42"/>
 </p>
 
 <p align="center">
-
 <a href="https://github.com/JuanP-G/MC-ServerLauncher">
-
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
 </a>
-
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📊 RLAnalyzer
+<h3>📊 RLAnalyzer</h3>
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
 
-Desktop application focused on **Rocket League replay analysis**, providing detailed match statistics and performance insights through a clean user interface.
+Rocket League replay analysis platform providing statistics, dashboards and visual insights.
 
-### ✨ Features
-
-- 📈 Match statistics
-- ⚽ Goal analysis
-- 🎯 Player performance
-- 📋 Replay parsing
-- 📊 Visual reports
+**Highlights**
+- 📊 Replay analysis
+- 📈 Interactive statistics
+- 🌐 Web interface
 - ⚡ Fast processing
 
-### 🛠 Built With
+**Built with**
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-
+<img src="https://skillicons.dev/icons?i=js,python,html,css" height="42"/>
 </p>
 
 <p align="center">
-
 <a href="https://github.com/JuanP-G/RLAnalyzer">
-
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-
 </a>
-
 </p>
 
 </td>
