@@ -35,58 +35,52 @@ Although I love desktop development, I'm also passionate about:
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-<img src="https://skillicons.dev/icons?i=java" alt="Java" />
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-<img src="https://skillicons.dev/icons?i=c" alt="C" />
-
-</p>
-
-## 🖥️ Desktop Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
-
-</p>
-
-## 🌐 Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
-<img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-
-</p>
-
-## 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-
-</p>
-
-## ⚙️ Learning & Interests
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-
-</p>
+<table>
+  <tr>
+    <td valign="center"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=c" alt="C" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="center"><b>🖥️ Desktop Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+      <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="center"><b>🌐 Web Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" />
+      <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="center"><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="center"><b>⚙️ Learning & Interests</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    </td>
+  </tr>
+</table>
 
 ---
 
