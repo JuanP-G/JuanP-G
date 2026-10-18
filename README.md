@@ -1,209 +1,63 @@
 <div align="center">
 
-# 👋 Hi, I'm Juan Pastrana García
+# Juan Pastrana García
 
-### Computer Engineering Student • Desktop Application Developer • Open Source Enthusiast
+**Computer Engineering student · Universidad Complutense de Madrid**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Desktop+Applications;Developing+Minecraft+Server+Tools;Computer+Architecture+Enthusiast;Always+Learning+Something+New" alt="Typing SVG"/>
+Digital hardware, desktop applications and developer tools
 
-<br>
-
-<img src="https://img.shields.io/github/followers/JuanP-G?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/JuanP-G?style=for-the-badge&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=JuanP-G&style=for-the-badge&color=3b82f6"/>
+[![GitHub](https://img.shields.io/badge/GitHub-JuanP--G-181717?style=for-the-badge&logo=github)](https://github.com/JuanP-G)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## Featured projects
 
-I'm a **Computer Engineering student** from **Spain** with a strong interest in designing high-quality software and understanding how computers work under the hood.
+### FPGA Enigma Machine
 
-I enjoy creating applications that are both **powerful** and **easy to use**, combining modern user interfaces with efficient and maintainable code.
-
-Although I love desktop development, I'm also passionate about:
-
-- 🖥️ Desktop Applications
-- ⚙️ Developer Tools
-- 🧩 Computer Architecture
-- 🚀 Performance Optimization
-- 🌐 Open Source
-- 🎮 Minecraft Development
-
----
-
-# 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td valign="center"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-      <img src="https://skillicons.dev/icons?i=c" alt="C" />
-      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="center"><b>🖥️ Desktop Development</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
-      <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="center"><b>🌐 Web Development</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-      <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="center"><b>🛠️ Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="center"><b>⚙️ Learning & Interests</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-    </td>
-  </tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-> Some of the projects I'm currently working on.
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🎮 MC ServerLauncher</h3>
-
-<img src="https://img.shields.io/badge/Status-In%20Development-3B82F6?style=flat-square"/>
-
-Modern Windows application for creating and managing Minecraft servers through an intuitive graphical interface.
-
-**Highlights**
-- 🚀 Multi-server management
-- 📜 Live console
-- 🌐 Playit.gg integration *(WIP)*
-- 📦 Mod Manager 
-
-**Built with**
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git" height="42"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/JuanP-G/MC-ServerLauncher">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📊 RLAnalyzer</h3>
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
-
-Rocket League replay analysis platform providing statistics, dashboards and visual insights.
-
-**Highlights**
-- 📊 Replay analysis
-- 📈 Interactive statistics
-- 🌐 Web interface
-- ⚡ Fast processing
-
-**Built with**
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,html,css" height="42"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/JuanP-G/RLAnalyzer">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💡 Other Interests
-
-Besides software development, I'm interested in several areas of Computer Engineering.
-
-<table>
-
-<tr>
-
-<td>
-
-### 🖥️ Computer Architecture
-
-- RISC-V
-- CPU Design
-- Memory Hierarchy
-- Performance
-
-</td>
-
-<td>
-
-### ⚡ Low-Level Programming
-
-- C
-- C++
-- Assembly
-- Optimization
-
-</td>
-
-<td>
-
-### 🔬 Hardware
-
-- FPGA
-- VHDL
-- Digital Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 Activity Graph
+Hardware implementation of the Enigma cipher in VHDL, running on a Basys 3 (Artix-7) FPGA. It rebuilds the machine as digital logic instead of simulating it: a control FSM with button debouncing, a MOD 26 ALU, rotor stepping and a multiplexed 7-segment display. Team project for *Tecnología de Computadores* at UCM.
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanP-G&theme=github-dark&hide_border=true"/>
-
+<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="assets/gallery-enigma.gif" alt="FPGA Enigma Machine: board interface, RTL schematics, datapath and FSM" width="760"></a>
 </div>
 
+![VHDL](https://img.shields.io/badge/VHDL-3B82F6?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-1F2937?style=flat-square)
+![Artix-7](https://img.shields.io/badge/Artix--7-1F2937?style=flat-square)
+
+[View repository](https://github.com/J-O-Systems/FPGA-Enigma-Machine)
+
+### MC ServerLauncher
+
+Desktop application to create and manage Minecraft servers through a graphical interface. Multi-server management, live console and mod manager.
+
+<div align="center">
+<a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="assets/gallery-mcsl.gif" alt="MC ServerLauncher: dashboard, new server, mods, players and settings" width="760"></a>
+</div>
+
+![C#](https://img.shields.io/badge/C%23-3B82F6?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-1F2937?style=flat-square)
+
+[View repository](https://github.com/JuanP-G/MC-ServerLauncher)
+
+### RLAnalyzer
+
+Rocket League replay analysis with interactive statistics and a web interface.
+
+<div align="center">
+<a href="https://github.com/JuanP-G/RLAnalyzer"><img src="assets/gallery-rla.png" alt="RLAnalyzer replay analysis dashboard" width="760"></a>
+</div>
+
+![Python](https://img.shields.io/badge/Python-3B82F6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square)
+
+[View repository](https://github.com/JuanP-G/RLAnalyzer)
+
 ---
+
+## Skills
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,cpp,js,mysql,git,linux" alt="C#, .NET, Java, Python, C, C++, JavaScript, SQL, Git, Linux" />
+
+**Hardware:** VHDL, FPGA design with Vivado
