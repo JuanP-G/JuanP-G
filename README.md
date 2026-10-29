@@ -80,7 +80,7 @@ Digital hardware · Desktop applications · Developer tools
 <h2 align="center">Skills</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,python,js,react,astro,tailwind,mysql,git,linux" alt="C, C++, C#, .NET, Java, Python, JavaScript, React, Astro, Tailwind CSS, SQL, Git, Linux"><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,git,linux" alt="C, C++, C#, Java, SQL, Git, Linux"><br>
 <sub>Also VHDL and FPGA design with Vivado</sub>
 </p>
 
