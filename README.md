@@ -1,66 +1,134 @@
 <div align="center">
 
-# Juan Pastrana García
+<img src="assets/banner.svg" alt="Juan Pastrana García, Computer Engineering student at Universidad Complutense de Madrid" width="100%">
 
-**Computer Engineering student · Universidad Complutense de Madrid**
-
-Digital hardware, desktop applications and developer tools
-
-[![GitHub](https://img.shields.io/badge/GitHub-JuanP--G-181717?style=for-the-badge&logo=github)](https://github.com/JuanP-G)
+<a href="#featured-projects"><img src="assets/nav/projects.svg" alt="Projects" height="34"></a>
+&nbsp;
+<a href="#skills"><img src="assets/nav/skills.svg" alt="Skills" height="34"></a>
+&nbsp;
+<a href="#education"><img src="assets/nav/education.svg" alt="Education" height="34"></a>
 
 </div>
 
----
+Third-year Computer Engineering student. I like building things end to end, from digital logic on an FPGA to desktop apps with a real user interface.
 
 ## Featured projects
 
-### FPGA Enigma Machine
+<table>
+<tr>
+<td width="96" valign="top"><img src="assets/icons/chip.svg" alt="" width="72"></td>
+<td>
 
-Hardware implementation of the Enigma cipher in VHDL, running on a Basys 3 (Artix-7) FPGA. It rebuilds the machine as digital logic instead of simulating it: a control FSM with button debouncing, a MOD 26 ALU, rotor stepping and a multiplexed 7-segment display. Team project for *Tecnología de Computadores* at UCM.
+<h3>FPGA Enigma Machine</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VHDL-3B82F6?style=flat-square" alt="VHDL">
-  <img src="https://img.shields.io/badge/Vivado-1F2937?style=flat-square" alt="Vivado">
-  <img src="https://img.shields.io/badge/Artix--7-1F2937?style=flat-square" alt="Artix-7">
-  <a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github" alt="View repository"></a>
-</p>
+The Enigma cipher rebuilt as digital logic in VHDL on a Basys 3 (Artix-7) FPGA, instead of simulated in software. It includes a control FSM, button debouncing, a MOD 26 ALU, rotor stepping and a multiplexed 7-segment display. Team project for *Tecnología de Computadores* at UCM.
 
-<p align="center">
-  <a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="assets/gallery-enigma.gif" alt="FPGA Enigma Machine: board interface, RTL schematics, datapath and FSM" width="680"></a>
-</p>
+<img src="assets/tags/enigma.svg" alt="VHDL, Vivado, Basys 3, Artix-7" height="26">
 
-### MC ServerLauncher
+<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="assets/btn/repo.svg" alt="View repository" height="38"></a>
+<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/Manual_de_instrucciones%20-%20Maquina_Enigma.pdf"><img src="assets/btn/manual.svg" alt="User manual" height="38"></a>
+<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/Proyecto_enigma.pdf"><img src="assets/btn/report.svg" alt="Project report" height="38"></a>
 
-Desktop application to create and manage Minecraft servers through a graphical interface. Multi-server management, live console and mod manager.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-3B82F6?style=flat-square" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-1F2937?style=flat-square" alt=".NET">
-  <a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github" alt="View repository"></a>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="assets/gallery-mcsl.gif" alt="MC ServerLauncher: dashboard, new server, mods, players and settings" width="680"></a>
+<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="assets/gallery-enigma.webp" alt="FPGA Enigma Machine: board interface, RTL schematics, datapath and FSM" width="760"></a>
 </p>
 
-### RLAnalyzer
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/assets/manual_interface.png"><img src="assets/thumbs/enigma-board.png" alt="Board interface" width="112"></a></td>
+<td align="center"><a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/assets/rtl_top.png"><img src="assets/thumbs/enigma-rtl-top.png" alt="Top-level RTL" width="112"></a></td>
+<td align="center"><a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/assets/concept_datapath.png"><img src="assets/thumbs/enigma-datapath.png" alt="Datapath concept" width="112"></a></td>
+<td align="center"><a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/assets/fsm_sketch.png"><img src="assets/thumbs/enigma-fsm-sketch.png" alt="FSM sketch" width="112"></a></td>
+<td align="center"><a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/assets/rtl_fsm.png"><img src="assets/thumbs/enigma-rtl-fsm.png" alt="FSM RTL" width="112"></a></td>
+<td align="center"><a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine/blob/main/assets/rtl_alu.png"><img src="assets/thumbs/enigma-rtl-alu.png" alt="ALU RTL" width="112"></a></td>
+</tr>
+<tr>
+<td align="center"><sub>Board</sub></td>
+<td align="center"><sub>Top RTL</sub></td>
+<td align="center"><sub>Datapath</sub></td>
+<td align="center"><sub>FSM sketch</sub></td>
+<td align="center"><sub>FSM RTL</sub></td>
+<td align="center"><sub>ALU RTL</sub></td>
+</tr>
+</table>
 
-Rocket League replay analysis with interactive statistics and a web interface.
+<p align="center"><sub>Click any thumbnail to open it full size.</sub></p>
+
+<br>
+
+<table>
+<tr>
+<td width="96" valign="top"><img src="assets/icons/cube.svg" alt="" width="72"></td>
+<td>
+
+<h3>MC ServerLauncher</h3>
+
+Desktop app to create and manage Minecraft servers from a graphical interface. Multi-server management, live console, and a mod and plugin manager.
+
+<img src="assets/tags/mcsl.svg" alt="C#, .NET 9, Avalonia" height="26">
+
+<a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="assets/btn/repo.svg" alt="View repository" height="38"></a>
+<a href="https://mc-server-launcher.vercel.app/en/"><img src="assets/btn/site.svg" alt="Website" height="38"></a>
+<a href="https://github.com/JuanP-G/MC-ServerLauncher/releases/latest"><img src="assets/btn/download.svg" alt="Download" height="38"></a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3B82F6?style=flat-square" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square" alt="JavaScript">
-  <a href="https://github.com/JuanP-G/RLAnalyzer"><img src="https://img.shields.io/badge/View%20repository-181717?style=flat-square&logo=github" alt="View repository"></a>
+<a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="assets/gallery-mcsl.webp" alt="MC ServerLauncher: dashboard, new server, mods, players and settings" width="760"></a>
 </p>
+
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/JuanP-G/MC-ServerLauncher/blob/main/docs/screenshots/main.png"><img src="assets/thumbs/mcsl-dashboard.png" alt="Dashboard" width="140"></a></td>
+<td align="center"><a href="https://github.com/JuanP-G/MC-ServerLauncher/blob/main/docs/screenshots/new-server.png"><img src="assets/thumbs/mcsl-new-server.png" alt="New server" width="140"></a></td>
+<td align="center"><a href="https://github.com/JuanP-G/MC-ServerLauncher/blob/main/docs/screenshots/mods-plugins.png"><img src="assets/thumbs/mcsl-mods.png" alt="Mods and plugins" width="140"></a></td>
+<td align="center"><a href="https://github.com/JuanP-G/MC-ServerLauncher/blob/main/docs/screenshots/players.png"><img src="assets/thumbs/mcsl-players.png" alt="Players" width="140"></a></td>
+<td align="center"><a href="https://github.com/JuanP-G/MC-ServerLauncher/blob/main/docs/screenshots/settings.png"><img src="assets/thumbs/mcsl-settings.png" alt="Settings" width="140"></a></td>
+</tr>
+<tr>
+<td align="center"><sub>Dashboard</sub></td>
+<td align="center"><sub>New server</sub></td>
+<td align="center"><sub>Mods</sub></td>
+<td align="center"><sub>Players</sub></td>
+<td align="center"><sub>Settings</sub></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="96" valign="top"><img src="assets/icons/chart.svg" alt="" width="72"></td>
+<td>
+
+<h3>RLAnalyzer</h3>
+
+Rocket League replay analysis with statistics and interactive dashboards. Python backend, React web interface and an Electron desktop shell.
+
+<img src="assets/tags/rla.svg" alt="Python, FastAPI, React, Electron" height="26">
+
+<a href="https://github.com/JuanP-G/RLAnalyzer"><img src="assets/btn/repo.svg" alt="View repository" height="38"></a>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/JuanP-G/RLAnalyzer"><img src="assets/gallery-rla.png" alt="RLAnalyzer replay analysis dashboard" width="680"></a>
+<a href="https://github.com/JuanP-G/RLAnalyzer"><img src="assets/gallery-rla.png" alt="RLAnalyzer replay analysis dashboard" width="760"></a>
 </p>
-
----
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,cpp,js,mysql,git,linux" alt="C#, .NET, Java, Python, C, C++, JavaScript, SQL, Git, Linux" />
+<img src="assets/skills.svg" alt="Languages: C, C++, C#, Java, Python, JavaScript, SQL, VHDL. Hardware: FPGA design, Vivado, digital logic, Basys 3. Web: React, Astro, Tailwind CSS, HTML and CSS. Tools: .NET, Git, Linux." width="760">
 
-**Hardware:** VHDL, FPGA design with Vivado
+## Education
+
+**Universidad Complutense de Madrid** · Degree in Computer Engineering · 3rd year, expected 2028
+
+Languages: Spanish (native) · English (advanced)
