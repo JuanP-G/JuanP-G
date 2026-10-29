@@ -11,16 +11,16 @@ Digital hardware · Desktop applications · Developer tools
 
 <table>
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="assets/enigma.png" alt="FPGA Enigma Machine on a Basys 3 board" width="460"></a>
+<a href="https://github.com/J-O-Systems/FPGA-Enigma-Machine"><img src="assets/enigma.png" alt="FPGA Enigma Machine on a Basys 3 board" width="400"></a>
+
+</td>
+<td width="50%" align="center" valign="middle">
 
 <h3 align="center">FPGA Enigma Machine</h3>
 
-<p align="center">
-The Enigma cipher rebuilt as digital logic in VHDL on a Basys 3 FPGA, not simulated in software.<br>
-Control FSM, button debouncing, MOD 26 ALU, rotors and a 7-segment display. Team project for <i>Tecnología de Computadores</i> at UCM.
-</p>
+<p align="center">The Enigma cipher rebuilt as digital logic in VHDL on a Basys 3 FPGA, not simulated in software: control FSM, button debouncing, MOD 26 ALU, rotors and a 7-segment display. Team project for <i>Tecnología de Computadores</i> at UCM.</p>
 
 <p align="center"><sub>VHDL · Vivado · Basys 3</sub></p>
 
@@ -43,12 +43,6 @@ Control FSM, button debouncing, MOD 26 ALU, rotors and a 7-segment display. Team
 
 <p align="center"><sub>C# · .NET 9 · Avalonia</sub></p>
 
-<p align="center">
-<a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="assets/btn/repo.svg" alt="Repository" height="34"></a>
-<a href="https://mc-server-launcher.vercel.app/en/"><img src="assets/btn/site.svg" alt="Website" height="34"></a>
-<a href="https://github.com/JuanP-G/MC-ServerLauncher/releases/latest"><img src="assets/btn/download.svg" alt="Download" height="34"></a>
-</p>
-
 </td>
 <td width="50%" align="center" valign="top">
 
@@ -59,6 +53,20 @@ Control FSM, button debouncing, MOD 26 ALU, rotors and a 7-segment display. Team
 <p align="center">Rocket League replay analysis with statistics and interactive dashboards, in a desktop app.</p>
 
 <p align="center"><sub>Python · FastAPI · React · Electron</sub></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<p align="center">
+<a href="https://github.com/JuanP-G/MC-ServerLauncher"><img src="assets/btn/repo.svg" alt="Repository" height="34"></a>
+<a href="https://mc-server-launcher.vercel.app/en/"><img src="assets/btn/site.svg" alt="Website" height="34"></a>
+<a href="https://github.com/JuanP-G/MC-ServerLauncher/releases/latest"><img src="assets/btn/download.svg" alt="Download" height="34"></a>
+</p>
+
+</td>
+<td width="50%" align="center" valign="middle">
 
 <p align="center">
 <a href="https://github.com/JuanP-G/RLAnalyzer"><img src="assets/btn/repo.svg" alt="Repository" height="34"></a>
